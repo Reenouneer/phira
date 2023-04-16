@@ -15,3 +15,5 @@ import = Импорт
 importing = Импорт
 import-success = Успешный импорт
 import-failed = Ошибка импорта
+
+offline-mode = Невозможно загрузить онлайн чарты в оффлайн-режиме
