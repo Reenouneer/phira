@@ -35,7 +35,7 @@ edit-load-file-failed = Ошибка загрузки файла
 edit-save-failed = Ошибка сохранения
 edit-saved = Сохранено
 edit-preview-invalid = Время превью установленно неправильно
-
+edit-tags = Изменить теги
 edit-upload = Выложить
 upload-login-first = Сначала войдите, что бы выложить чарт
 upload-builtin = Встроенные чарты нельзя выложить
@@ -75,3 +75,6 @@ review-denied = Модерация не пройдена
 review-deleted = Удалëн
 review-action-failed = Ошибка выполнения модерации
 review-doing = На модерации
+review-edit-tags = Изменить теги
+review-edit-tags-failed = Ошибка при изменении тегов
+review-edit-tags-done = Теги изменены
